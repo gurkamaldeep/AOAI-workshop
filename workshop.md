@@ -16,7 +16,7 @@ In this lab, you will be using your own data with Azure OpenAI Large Language Mo
 
 ### Step 1: Navigate to Azure OpenAI Playground
 
-![Alt text](images/step1.1.png)
+![Alt text](Images/step1.1.png)
 
 * 1.1 Click on **"Go to Azure OpenAI Studio"**
 
