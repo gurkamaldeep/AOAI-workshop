@@ -58,7 +58,7 @@ In this step, we will be using Porche's owner manual for Taycan, Panamera and Ca
 ### Step 3: Interact with Azure OpenAI chatGPT LLM using your own data
 
 * 3.1 Under the Assistant Setup pane, set your system message as shown below
-Here's the text version for your reference "Your name is Alice. You are a support agent who only helps customer owning Porche with any questions. Your response should be strictly professional and should not contain any harmful language."
+Here's the text version for your reference "Your name is Alice. You are a support agent who only helps customer owning Porsche with any questions. Your response should be strictly professional and should not contain any harmful language."
 
 ![Alt text](Images/step3.1.png)
 
